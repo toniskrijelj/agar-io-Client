@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Food
+  - Cooldown
+  - Enemy
+  - Wall
+  - Flying
+  - Mass
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Balls1
+    uniqueID: 333339251
+    locked: 0
+  - name: Balls2
+    uniqueID: 2914873295
+    locked: 0
+  - name: Balls3
+    uniqueID: 4033305939
+    locked: 0
+  - name: Balls4
+    uniqueID: 1900485053
+    locked: 0
+  - name: Balls5
+    uniqueID: 1281559465
+    locked: 0
+  - name: Balls6
+    uniqueID: 1856745487
+    locked: 0
+  - name: Balls7
+    uniqueID: 1130226489
+    locked: 0
+  - name: Balls8
+    uniqueID: 2780137015
+    locked: 0
+  - name: Balls9
+    uniqueID: 2246828969
+    locked: 0
+  - name: Balls10
+    uniqueID: 3217226283
+    locked: 0
+  - name: Balls11
+    uniqueID: 3058896245
+    locked: 0
+  - name: Balls12
+    uniqueID: 3267988701
+    locked: 0
+  - name: Balls13
+    uniqueID: 938689839
+    locked: 0
+  - name: Balls14
+    uniqueID: 1101666885
+    locked: 0
+  - name: Balls15
+    uniqueID: 2356830609
+    locked: 0
+  - name: Balls16
+    uniqueID: 1215158211
+    locked: 0
+  - name: Balls17
+    uniqueID: 4204197099
+    locked: 0
+  - name: Balls18
+    uniqueID: 1821908465
+    locked: 0
+  - name: Balls19
+    uniqueID: 3380414501
+    locked: 0
+  - name: Balls20
+    uniqueID: 1824825967
+    locked: 0
